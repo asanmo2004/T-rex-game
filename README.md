@@ -36,14 +36,5 @@ Contributions to this repository are welcome. If you find any bugs, have suggest
 
 When contributing, please adhere to the existing code style and follow the established guidelines.
 
-## License 📄
 
-The game is licensed under the [MIT License](LICENSE). Feel free to modify and distribute the game as per the terms of the license. 📜🆓
-
-## Acknowledgments 🙏
-
-This game is inspired by the Chrome offline game and KnifeCircus YouTube Video. 
-🔗 [YouTube Video](https://www.youtube.com/watch?v=bG2BmmYr9NQ)
-
-Special thanks to the original creators. 👏
 
